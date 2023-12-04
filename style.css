@@ -362,7 +362,7 @@ html {
     font-size: 12px !important;
     line-height: 14px !important;
     text-decoration: none !important;
-    display: none !important;
+    display: inline-block !important;
     position: fixed !important;
     top: auto !important;
     bottom: 12px !important;
@@ -376,7 +376,7 @@ html {
     visibility: visible !important;
     opacity: 1 !important;
     vertical-align: middle !important;
-    display: none !important;
+    display: inline-block !important;
   }
   
   h1, h2, h3, h4, h5, h6 {
@@ -2692,7 +2692,7 @@ html {
   
   .section-_hero {
     height: auto;
-    background-image: url("https://assets-global.website-files.com/654243d6dd222dabf695771c/654426bae14097f7a61e37ef_Dots.svg"), linear-gradient(#0a0a0a, #0a0a0a 0%, #cbff49 0%, #0a0a0a);
+    background-image: url("img/Dots.svg"), linear-gradient(#0a0a0a, #0a0a0a 0%, #cbff49 0%, #0a0a0a);
     background-position: 50%, 0 0;
     background-repeat: no-repeat, repeat;
     background-size: cover, auto;
@@ -2727,7 +2727,7 @@ html {
   }
   
   .section-_redius {
-    background-image: url("https://assets-global.website-files.com/654243d6dd222dabf695771c/654426bae14097f7a61e37ef_Dots.svg"), linear-gradient(to bottom, var(--colors--green-yelow), var(--colors--black));
+    background-image: url("img/Dots.svg"), linear-gradient(to bottom, var(--colors--green-yelow), var(--colors--black));
     background-position: 50%, 0 0;
     background-repeat: no-repeat, repeat;
     background-size: cover, auto;
@@ -2981,7 +2981,7 @@ html {
   
   .future_wraper.is1 {
     height: 45rem;
-    background-image: url("https://assets-global.website-files.com/654243d6dd222dabf695771c/6544e792dc7904462ff1a80c_E-bike%20-%20Image%2024.webp");
+    background-image: url("img/E-bike\ -\ Image\ 24.webp");
     background-position: 0 0;
     background-size: auto;
     flex-direction: column;
